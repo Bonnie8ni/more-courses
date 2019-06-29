@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/more-courses/static/css/main.0f23716c.chunk.css",
+    "main.css": "/more-courses/static/css/main.a1341856.chunk.css",
     "main.js": "/more-courses/static/js/main.40647560.chunk.js",
     "main.js.map": "/more-courses/static/js/main.40647560.chunk.js.map",
     "runtime~main.js": "/more-courses/static/js/runtime~main.13d835b8.js",
@@ -8,8 +8,8 @@
     "static/js/2.0aceb299.chunk.js": "/more-courses/static/js/2.0aceb299.chunk.js",
     "static/js/2.0aceb299.chunk.js.map": "/more-courses/static/js/2.0aceb299.chunk.js.map",
     "index.html": "/more-courses/index.html",
-    "precache-manifest.d8d57820877e4369d138907d9810e003.js": "/more-courses/precache-manifest.d8d57820877e4369d138907d9810e003.js",
+    "precache-manifest.ec2107dc3e0a2d15d399869dc5cedaee.js": "/more-courses/precache-manifest.ec2107dc3e0a2d15d399869dc5cedaee.js",
     "service-worker.js": "/more-courses/service-worker.js",
-    "static/css/main.0f23716c.chunk.css.map": "/more-courses/static/css/main.0f23716c.chunk.css.map"
+    "static/css/main.a1341856.chunk.css.map": "/more-courses/static/css/main.a1341856.chunk.css.map"
   }
 }
